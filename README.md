@@ -1,1 +1,1 @@
-# simon-game-challenge
+# Simon-Game-Challenge
